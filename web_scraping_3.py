@@ -1,3 +1,7 @@
+#o see result link is: https://www.google.com/maps/d/edit?mid=1PVObw8KvGx14gP9aY07NOAokkDxkhz33&ll=3.803456153393583%2C0&z=2
+
+
+
 from bs4 import BeautifulSoup
 import requests
 import csv
