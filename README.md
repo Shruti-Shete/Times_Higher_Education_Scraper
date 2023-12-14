@@ -51,9 +51,10 @@ We will need the following dependencies installed:
 **To run this project**
 
 Installation
-Clone the repository: git clone https://github.com/Shruti-Shete/times-higher-education-scraper.git
-
+Clone the repository: 
+                      git clone https://github.com/Shruti-Shete/times-higher-education-scraper.git
                       cd web_scraping_3.py
+                      
 Install dependencies:
 
 pip install -r requirements.txt
@@ -62,6 +63,6 @@ Usage
 
 Run the script: web_scraping_3.py
 
-**Universities_100**
+**Top 100 universities.csv**
 
 It is a csv file with all extracted data using web_scraping_3.py 
