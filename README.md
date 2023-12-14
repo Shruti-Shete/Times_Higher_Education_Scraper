@@ -1,4 +1,4 @@
-** Times Higher Education Scraper **
+**Times Higher Education Scraper**
 
 This Python script uses BeautifulSoup and Selenium to scrape data from the Times Higher Education website, specifically from the world university rankings page.
 
@@ -30,7 +30,7 @@ Prints the number of rows and columns to the console.
 Iterates through each row and the first two columns of the table using Selenium.
 Extracts the text content of each cell and prints it to the console.
 
-** Prerequisites
+**Prerequisites**
 
 We will need the following dependencies installed:
 
@@ -39,13 +39,16 @@ We will need the following dependencies installed:
 - BeautifulSoup
 - Chrome WebDriver
 
-**To run this project
+**To run this project**
 
 Installation
 Clone the repository: git clone https://github.com/Shruti-Shete/times-higher-education-scraper.git
-                      cd web-scrapping
+                      cd web_scraping_3.py
 Install dependencies:
 pip install -r requirements.txt
 
 Usage
-Run the script:  python web-Scrapping.py
+Run the script: web_scraping_3.py
+
+**Universities_100**
+It is a csv file with all extracted data using web_scraping_3.py 
