@@ -24,7 +24,7 @@ Creates a BeautifulSoup object to parse the HTML content.
 
 *Finding the Table with BeautifulSoup:*
 
-Finds all <table> elements with a specific ID on the webpage.
+Finds all \<table> elements with a specific ID on the webpage.
 
 *Getting the Number of Rows and Columns in the Table using Selenium:*
 
@@ -52,8 +52,10 @@ We will need the following dependencies installed:
 
 Installation
 Clone the repository: 
-                      git clone https://github.com/Shruti-Shete/times-higher-education-scraper.git
-                      cd web_scraping_3.py
+
+git clone https://github.com/Shruti-Shete/times-higher-education-scraper.git
+
+cd web_scraping_3.py
                       
 Install dependencies:
 
